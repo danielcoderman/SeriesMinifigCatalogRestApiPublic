@@ -1,0 +1,452 @@
+[
+    {
+        "favorite": 0,
+        "id": 1,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 1",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2010-05-01"
+    },
+    {
+        "favorite": 0,
+        "id": 2,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 2",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2010-09-01"
+    },
+    {
+        "favorite": 0,
+        "id": 3,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 3",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2011-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 4,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 4",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2011-04-01"
+    },
+    {
+        "favorite": 0,
+        "id": 5,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 5",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2011-09-01"
+    },
+    {
+        "favorite": 0,
+        "id": 6,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 6",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2012-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 7,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 7",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2012-05-01"
+    },
+    {
+        "favorite": 0,
+        "id": 8,
+        "imageUrl": "[REDACTED]",
+        "name": "Team GB",
+        "numOfMinifigs": 9,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2012-07-01"
+    },
+    {
+        "favorite": 0,
+        "id": 9,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 8",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2012-09-01"
+    },
+    {
+        "favorite": 0,
+        "id": 10,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 9",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2013-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 11,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 10",
+        "numOfMinifigs": 17,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2013-05-01"
+    },
+    {
+        "favorite": 0,
+        "id": 12,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 11",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2013-09-01"
+    },
+    {
+        "favorite": 0,
+        "id": 13,
+        "imageUrl": "[REDACTED]",
+        "name": "The LEGO Movie",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2014-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 14,
+        "imageUrl": "[REDACTED]",
+        "name": "The Simpsons",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2014-05-01"
+    },
+    {
+        "favorite": 0,
+        "id": 15,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 12",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2014-10-01"
+    },
+    {
+        "favorite": 0,
+        "id": 16,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 13",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2015-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 17,
+        "imageUrl": "[REDACTED]",
+        "name": "The Simpsons Series 2",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2015-05-01"
+    },
+    {
+        "favorite": 0,
+        "id": 18,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 14: Monsters",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2015-09-01"
+    },
+    {
+        "favorite": 0,
+        "id": 19,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 15",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2016-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 20,
+        "imageUrl": "[REDACTED]",
+        "name": "Disney",
+        "numOfMinifigs": 18,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2016-05-01"
+    },
+    {
+        "favorite": 0,
+        "id": 21,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 16",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2016-09-01"
+    },
+    {
+        "favorite": 0,
+        "id": 22,
+        "imageUrl": "[REDACTED]",
+        "name": "DFB - The Mannschaft",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2016-05-01"
+    },
+    {
+        "favorite": 0,
+        "id": 23,
+        "imageUrl": "[REDACTED]",
+        "name": "The LEGO Batman Movie",
+        "numOfMinifigs": 20,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2017-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 24,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 17",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2017-05-01"
+    },
+    {
+        "favorite": 0,
+        "id": 25,
+        "imageUrl": "[REDACTED]",
+        "name": "The LEGO Ninjago Movie",
+        "numOfMinifigs": 20,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2017-08-01"
+    },
+    {
+        "favorite": 0,
+        "id": 26,
+        "imageUrl": "[REDACTED]",
+        "name": "The LEGO Batman Movie Series 2",
+        "numOfMinifigs": 20,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2018-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 27,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 18: Party",
+        "numOfMinifigs": 17,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2018-04-01"
+    },
+    {
+        "favorite": 0,
+        "id": 28,
+        "imageUrl": "[REDACTED]",
+        "name": "Harry Potter and Fantastic Beasts",
+        "numOfMinifigs": 22,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2018-08-01"
+    },
+    {
+        "favorite": 0,
+        "id": 29,
+        "imageUrl": "[REDACTED]",
+        "name": "The LEGO Movie 2",
+        "numOfMinifigs": 20,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2019-02-01"
+    },
+    {
+        "favorite": 0,
+        "id": 30,
+        "imageUrl": "[REDACTED]",
+        "name": "Disney Series 2",
+        "numOfMinifigs": 18,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2019-05-01"
+    },
+    {
+        "favorite": 0,
+        "id": 31,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 19",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2019-09-01"
+    },
+    {
+        "favorite": 0,
+        "id": 32,
+        "imageUrl": "[REDACTED]",
+        "name": "DC Super Heroes",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2020-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 33,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 20",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2020-05-01"
+    },
+    {
+        "favorite": 0,
+        "id": 34,
+        "imageUrl": "[REDACTED]",
+        "name": "Harry Potter Series 2",
+        "numOfMinifigs": 16,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2020-09-01"
+    },
+    {
+        "favorite": 0,
+        "id": 35,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 21",
+        "numOfMinifigs": 12,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2021-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 36,
+        "imageUrl": "[REDACTED]",
+        "name": "Looney Tunes",
+        "numOfMinifigs": 12,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2021-04-26"
+    },
+    {
+        "favorite": 0,
+        "id": 37,
+        "imageUrl": "[REDACTED]",
+        "name": "Marvel Studios",
+        "numOfMinifigs": 12,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2021-09-01"
+    },
+    {
+        "favorite": 0,
+        "id": 38,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 22",
+        "numOfMinifigs": 12,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2022-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 39,
+        "imageUrl": "[REDACTED]",
+        "name": "The Muppets",
+        "numOfMinifigs": 12,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2022-05-01"
+    },
+    {
+        "favorite": 0,
+        "id": 40,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 23",
+        "numOfMinifigs": 12,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2022-09-01"
+    },
+    {
+        "favorite": 0,
+        "id": 41,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 24",
+        "numOfMinifigs": 12,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2023-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 42,
+        "imageUrl": "[REDACTED]",
+        "name": "Disney 100",
+        "numOfMinifigs": 18,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2023-05-01"
+    },
+    {
+        "favorite": 0,
+        "id": 43,
+        "imageUrl": "[REDACTED]",
+        "name": "Marvel Studios Series 2",
+        "numOfMinifigs": 12,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2023-09-01"
+    },
+    {
+        "favorite": 0,
+        "id": 44,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 25",
+        "numOfMinifigs": 12,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2024-01-01"
+    },
+    {
+        "favorite": 0,
+        "id": 45,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 26 Space",
+        "numOfMinifigs": 12,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2024-05-01"
+    }
+]

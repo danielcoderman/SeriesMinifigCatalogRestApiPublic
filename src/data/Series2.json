@@ -1,0 +1,22 @@
+[
+    {
+        "favorite": 0,
+        "id": 46,
+        "imageUrl": "[REDACTED]",
+        "name": "Dungeons & Dragons",
+        "numOfMinifigs": 12,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2024-09-01"
+    },
+    {
+        "favorite": 0,
+        "id": 47,
+        "imageUrl": "[REDACTED]",
+        "name": "Series 27",
+        "numOfMinifigs": 12,
+        "numOfMinifigsCollected": 0,
+        "numOfMinifigsHidden": 0,
+        "releaseDate": "2025-01-01"
+    }
+]

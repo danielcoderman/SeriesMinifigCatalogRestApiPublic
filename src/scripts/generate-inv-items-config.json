@@ -1,0 +1,19 @@
+{
+  "setNumSeriesBase": "71050",
+  "countInSeries": 12,
+  "positionToMinifigureId": {
+    "1": 728,
+    "2": 729,
+    "3": 730,
+    "4": 731,
+    "5": 732,
+    "6": 733,
+    "7": 734,
+    "8": 735,
+    "9": 736,
+    "10": 737,
+    "11": 738,
+    "12": 739
+  },
+  "outputPath": "data/spiderman-across-the-spiderverse/minifigure-inventory-items.json"
+}

@@ -1,0 +1,98 @@
+[
+    {
+        "id": 728,
+        "name": "Miles Morales/Spider-Man",
+        "image_url": "[REDACTED]",
+        "position_in_series": 1,
+        "inventory_size": 6,
+        "series_id": 48
+    },
+    {
+        "id": 729,
+        "name": "Hobie Brown/Spider-Punk",
+        "image_url": "[REDACTED]",
+        "position_in_series": 2,
+        "inventory_size": 7,
+        "series_id": 48
+    },
+    {
+        "id": 730,
+        "name": "Miles G. Morales/Prowler",
+        "image_url": "[REDACTED]",
+        "position_in_series": 3,
+        "inventory_size": 9,
+        "series_id": 48
+    },
+    {
+        "id": 731,
+        "name": "Gwen Stacy/Spider Gwen",
+        "image_url": "[REDACTED]",
+        "position_in_series": 4,
+        "inventory_size": 7,
+        "series_id": 48
+    },
+    {
+        "id": 732,
+        "name": "Miguel O'Hara/Spider-Man 2099",
+        "image_url": "[REDACTED]",
+        "position_in_series": 5,
+        "inventory_size": 7,
+        "series_id": 48
+    },
+    {
+        "id": 733,
+        "name": "Pavitr Prabhakar/Spider-Man India",
+        "image_url": "[REDACTED]",
+        "position_in_series": 6,
+        "inventory_size": 7,
+        "series_id": 48
+    },
+    {
+        "id": 734,
+        "name": "Petra Parker/Cyborg Spider-Woman",
+        "image_url": "[REDACTED]",
+        "position_in_series": 7,
+        "inventory_size": 7,
+        "series_id": 48
+    },
+    {
+        "id": 735,
+        "name": "Charlotte Webber/Sun-Spider",
+        "image_url": "[REDACTED]",
+        "position_in_series": 8,
+        "inventory_size": 6,
+        "series_id": 48
+    },
+    {
+        "id": 736,
+        "name": "Margo Kess/Spider-Byte",
+        "image_url": "[REDACTED]",
+        "position_in_series": 9,
+        "inventory_size": 6,
+        "series_id": 48
+    },
+    {
+        "id": 737,
+        "name": "Peter B. Parker/Spider-Man and May \"Mayday\" Parker",
+        "image_url": "[REDACTED]",
+        "position_in_series": 10,
+        "inventory_size": 7,
+        "series_id": 48
+    },
+    {
+        "id": 738,
+        "name": "Patrick O'Hara/Web-Slinger",
+        "image_url": "[REDACTED]",
+        "position_in_series": 11,
+        "inventory_size": 8,
+        "series_id": 48
+    },
+    {
+        "id": 739,
+        "name": "Peter Parker/Werewolf Spider-Man",
+        "image_url": "[REDACTED]",
+        "position_in_series": 12,
+        "inventory_size": 4,
+        "series_id": 48
+    }
+]

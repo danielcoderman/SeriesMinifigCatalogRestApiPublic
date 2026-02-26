@@ -1,5 +1,5 @@
 {
-  "name": "minifig-accessories-backend",
+  "name": "series-minifig-catalog-rest-api",
   "version": "1.0.0",
   "private": true,
   "main": "src/index.js",

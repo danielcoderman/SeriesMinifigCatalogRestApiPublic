@@ -2,7 +2,7 @@
 
 A REST API backend for the Tracker for Minifigures Series Android app, built with Node.js, Express, PostgreSQL, and Sequelize.
 
-This repository is a public, read-only snapshot of the production backend and is no longer actively maintained.
+This repository is a **public, read-only snapshot** of the production backend that is **no longer actively maintained**.
 
 ## Related Project
 
@@ -11,7 +11,7 @@ This repository is a public, read-only snapshot of the production backend and is
 
 ## Purpose
 
-This service provided structured LEGO minifigure data — including series, minifigures, and associated inventory items — to the Android client.
+This service provided structured LEGO minifigure data — including series, minifigures, and associated inventory items — to the Android app.
 
 The API supports incremental synchronization, allowing the Android app to fetch only records modified since a given timestamp. This reduces unnecessary data transfer and improves synchronization efficiency.
 
@@ -66,7 +66,7 @@ If an invalid timestamp is supplied, the API returns `400 Bad Request`.
   {
     "id": 48,
     "name": "Spider-Man: Across the Spider-Verse",
-    "image_url": "https://example.com/image.png",
+    "image_url": "https://cdn.example.com/image.png",
     "num_of_minifigs": 12,
     "release_date": "2025-09-01"
   },
@@ -251,21 +251,21 @@ If any step fails, the entire transaction rolls back, preventing partial data fr
 
 ## Data Generation Utilities
 
-The repository includes utilities used to generate inventory data prior to insertion.
+The repository includes utilities used to generate minifigure inventory item data for all minifigures within a specified series.
 
 ### `rebrickableService.js`
 
-Encapsulates communication with the Rebrickable API and retrieves raw inventory data.
+Encapsulates communication with the Rebrickable API and retrieves raw inventory item data for individual minifigures.
 
 ### `generateSeriesInventoryItemsJson.js`
 
-Uses `rebrickableService.js` to generate inventory JSON for all minifigures in a given series.
+Uses `rebrickableService.js` to generate a JSON file containing structured inventory item data for all minifigures within a specified series.
 
 ### `generate-inv-items-config.json`
 
-Configuration file defining which series and minifigures should be processed.
+Configuration file defining which series and minifigures should be processed during inventory data generation.
 
-Generated JSON is manually reviewed to remove unnecessary parts (e.g., base plates) before being inserted via seeders.
+The generated JSON is manually reviewed to remove unnecessary items (e.g., base plates) before being inserted via transactional seeders.
 
 ## Configuration
 
@@ -274,9 +274,8 @@ The service relies on environment variables for:
 * Database connectivity
 * Rebrickable API access
 
-A `.env.example` file documents required variables.
-No real credentials are included in this snapshot.
+The `.env.example` file documents required variables.
 
 ## License
 
-MIT (see `LICENSE`).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

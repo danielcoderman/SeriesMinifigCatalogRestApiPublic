@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "license": "MIT",
-  "description": "Express.js REST API providing series, minifigure, and minifigure inventory item data for a client Android application.",
+  "description": "Express REST API serving LEGO® series, minifigures, and inventory data",
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.1",

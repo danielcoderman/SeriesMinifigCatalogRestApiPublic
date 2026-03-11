@@ -29,7 +29,7 @@ The API supports incremental synchronization, allowing the Android app to fetch 
 - Security & reliability:
   - Helmet
   - express-rate-limit
-  - Morgan (custom client IP handling for proxy / edge environments)
+  - Morgan
 
 ## API Overview
 

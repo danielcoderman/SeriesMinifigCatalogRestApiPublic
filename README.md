@@ -2,8 +2,6 @@
 
 A REST API backend for the Tracker for Minifigures Series Android app, built with Node.js, Express, PostgreSQL, and Sequelize.
 
-This repository is a **public, read-only snapshot** of the production backend that is **no longer actively maintained**.
-
 ## Related Project
 
 - **[Tracker for Minifigures Series (Android App)](https://github.com/danielcoderman/TrackerForMinifiguresSeriesPublic)**  
@@ -15,7 +13,11 @@ This service provided structured LEGO minifigure data — including series, mini
 
 The API supports incremental synchronization, allowing the Android app to fetch only records modified since a given timestamp. This reduces unnecessary data transfer and improves synchronization efficiency.
 
----
+## Project Status
+
+This repository is a public, read-only snapshot of the production backend for the
+Tracker for Minifigures Series Android app. The service is no longer hosted and the
+repository is not actively maintained.
 
 ## Tech Stack
 
@@ -279,3 +281,7 @@ The `.env.example` file documents required variables.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Built by **Daniel Reyes** — [LinkedIn](https://linkedin.com/in/danielreyesp)
